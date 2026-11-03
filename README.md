@@ -1,8 +1,6 @@
- <div align="center">
-
-<!-- ANIMATED CODING ROOM -->
 <div align="center">
 
+<!-- ANIMATED CODING ROOM -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation"/>
 
 <br/><br/>
@@ -18,30 +16,35 @@
 
 ---
 
-💫 About Me
+## 💫 About Me
 
-I'm Jeevan S K, an aspiring Full-Stack Developer passionate about transforming ideas into innovative digital solutions.
+I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about transforming ideas into innovative digital solutions.
 
 I enjoy developing modern, responsive, and user-friendly web applications that solve real-world problems. My interests include software development, backend technologies, and exploring emerging tools.
 
-💻 Building practical applications using modern technologies.
-
-🚀 Interested in Full-Stack and backend development.
-
-🧠 Enjoy solving problems through programming.
-
-🌱 Currently learning Go (Golang).
-
-🔍 Exploring APIs, databases, and application architecture.
-
-🎯 Focused on continuous learning and hands-on development.
-
-🤝 Interested in collaborating on meaningful projects.
+* 💻 Building practical applications using modern technologies.
+* 🚀 Interested in Full-Stack and backend development.
+* 🧠 Enjoy solving problems through programming.
+* 🌱 Currently learning Go (Golang).
+* 🔍 Exploring APIs, databases, and application architecture.
+* 🎯 Focused on continuous learning and hands-on development.
+* 🤝 Interested in collaborating on meaningful projects.
 
 My vision is to build technology that solves problems, creates opportunities, and makes everyday life better.
+
 ---
 
-# 🤝 Connect With Me
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevansanju908-dev&theme=dark&hide_border=true&background=111111" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -66,55 +69,48 @@ My vision is to build technology that solves problems, creates opportunities, an
 
 <br/>
 
-Instagram | LinkedIn | YouTube | Email
+**Instagram | LinkedIn | YouTube | Email**
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Programming Languages
-
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,go&theme=dark"/>
 
 ### Frontend Development
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark"/>
 
 ### Backend Development
-
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
 ### Database Technologies
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
 
 ### Tools & Platforms
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,gcp&theme=dark"/>
 
 </div>
 
 ---
 
-# 🚀 What I Bring to Development
+## 🚀 What I Bring to Development
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 Full-Stack Development
-
-Creating complete web applications with responsive interfaces, backend functionality, and database integration.
+Creating complete web applications with responsive interfaces, robust backend functionality, and seamless database integration.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 Problem Solving
-
 Understanding real-world challenges and developing practical, user-focused solutions.
 
 </td>
@@ -123,15 +119,13 @@ Understanding real-world challenges and developing practical, user-focused solut
 <td width="50%" valign="top">
 
 ### 🤖 AI-Powered Applications
-
-Exploring AI integration to develop smarter applications and improve user experiences.
+Exploring AI integration to build smarter applications and improve overall user experience.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 Continuous Learning
-
-Exploring emerging technologies and improving development skills through practical projects.
+Exploring emerging technologies and continuously improving development skills through practical projects.
 
 </td>
 </tr>
@@ -139,7 +133,7 @@ Exploring emerging technologies and improving development skills through practic
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 <div align="center">
 
@@ -151,19 +145,20 @@ Exploring emerging technologies and improving development skills through practic
 
 ---
 
-# 💡 My Development Philosophy
+## 💡 My Development Philosophy
 
 <div align="center">
 
-### UNDERSTAND → DESIGN → DEVELOP → TEST → INNOVATE
+### UNDERSTAND ➔ DESIGN ➔ DEVELOP ➔ TEST ➔ INNOVATE
 
-*I believe great developers don't just write code. They understand problems and build meaningful solutions.*
+*“I believe great developers don't just write code. They understand problems and build meaningful solutions.”*
 
 <br/>
 
 ### 💻 Code. Create. Innovate.
-
 **"Building the future, one solution at a time."**
+
+<br/>
 
 <a href="mailto:jeevansanju908@gmail.com">
 <img src="https://img.shields.io/badge/Let's_Connect-Contact_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
