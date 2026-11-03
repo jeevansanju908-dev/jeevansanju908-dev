@@ -1,12 +1,16 @@
  <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation"/>
+<!-- 1. CODING ANIMATION -->
 
-<br/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" alt="Developer coding animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Jeevan+S+K+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Building+Ideas+Into+Real+Applications;Code.+Create.+Innovate." />
+<br/><br/>
 
-**Full-Stack Developer | Problem Solver | Tech Enthusiast**
+<!-- 2. ANIMATED INTRODUCTION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00CFFF&center=true&vCenter=true&width=850&height=60&lines=Hello%2C+I'm+Jeevan+S+K+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Building+Innovative+Digital+Solutions;Turning+Ideas+Into+Reality" />
+
+**FULL-STACK DEVELOPER | PROBLEM SOLVER | TECH ENTHUSIAST**
 
 <img src="https://komarev.com/ghpvc/?username=jeevansanju908-dev&label=PROFILE+VIEWS&color=8957e5&style=for-the-badge" />
 
@@ -14,104 +18,106 @@
 
 ---
 
+<!-- 3. ABOUT ME -->
+
 ## 💫 About Me
 
-I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about transforming ideas into innovative digital solutions.
+Hey, I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about creating innovative and impactful digital solutions.
 
-I enjoy developing modern, responsive, and user-friendly web applications that solve real-world problems. My interests include software development, backend technologies, and exploring emerging tools.
+- 💻 Interested in developing modern and responsive web applications.
+- 🚀 Passionate about solving real-world problems through technology.
+- 🧠 Enjoy exploring new technologies and improving problem-solving skills.
+- 🌱 Currently learning **Go (Golang)** and exploring backend development.
+- ⚡ Interested in building complete applications using frontend, backend and databases.
+- 🎯 Focused on continuous learning, creativity and personal growth.
+- 🤝 Always open to collaborating on innovative projects.
 
-- 💻 Building practical applications using modern technologies.
-- 🚀 Interested in Full-Stack and backend development.
-- 🧠 Enjoy solving problems through programming.
-- 🌱 Currently learning **Go (Golang)**.
-- 🔍 Exploring APIs, databases, and application architecture.
-- 🎯 Focused on continuous learning and hands-on development.
-- 🤝 Interested in collaborating on meaningful projects.
+**My Mission:** To transform creative ideas into practical applications that create meaningful real-world impact.
 
-> My vision is to build technology that solves problems, creates opportunities, and makes everyday life better.
+---
+
+<!-- 4. CONNECT WITH ME -->
 
 ## 🤝 Connect with Me
 
 <div align="center">
 
 <a href="https://instagram.com/jeevan_sanju7">
-<img src="https://skillicons.dev/icons?i=instagram" width="48" />
+<img src="https://img.icons8.com/color/96/instagram-new.png" width="55" alt="Instagram"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/jeevan-sk-687308328/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+<img src="https://img.icons8.com/color/96/linkedin.png" width="55" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.youtube.com/@Jeevan-k9u">
-<img src="https://skillicons.dev/icons?i=youtube" width="48" />
+<img src="https://img.icons8.com/color/96/youtube-play.png" width="55" alt="YouTube"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:jeevansanju908@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48" />
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="55" alt="Gmail"/>
 </a>
 
 <br/>
 
-**Instagram · LinkedIn · YouTube · Gmail**
+**Instagram** &nbsp; | &nbsp; **LinkedIn** &nbsp; | &nbsp; **YouTube** &nbsp; | &nbsp; **Email**
 
 </div>
 
-## 🛠️ Tech Stack & Tools
+---
+
+<!-- 5. TECH STACK -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,go" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,go&theme=dark" />
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
 
-### Backend & Database
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-### Development Tools
+### Database Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,firebase,gcp" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,firebase,gcp&theme=dark" />
 
 </div>
 
-## 🚀 Featured Projects
+---
+
+<!-- 6. GITHUB PROJECT & DEVELOPMENT CARDS -->
+
+## 📌 Development Overview
 
 <div align="center">
 
-<a href="https://github.com/jeevansanju908-dev?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-238636?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansanju908-dev&layout=compact&theme=github_dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansanju908-dev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" width="48%" />
+</a>
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=jeevansanju908-dev">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevansanju908-dev&theme=github-dark-blue&hide_border=true" width="48%" />
 </a>
 
 </div>
 
-### Projects I'm Interested in Building
+---
 
-| Project | Description |
-|---|---|
-| 🎯 AI Career Guidance | AI-powered student skill analysis and career recommendations. |
-| 🏥 Hospital Management | Digital hospital management and information system. |
-| 🤖 JARVIS AI Assistant | Voice-controlled desktop assistant. |
-| 🛒 Business Marketplace | A platform connecting buyers and sellers. |
-
-*Explore my repositories to see my actual implementations and source code.*
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeevansanju908-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevansanju908-dev&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansanju908-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<!-- 7. GITHUB ACHIEVEMENTS -->
 
 ## 🏆 GitHub Achievements
 
@@ -121,28 +127,20 @@ I enjoy developing modern, responsive, and user-friendly web applications that s
 
 </div>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution activity animation"/>
-
-</div>
-
 ---
 
 <div align="center">
 
-### 💻 Let's Build Something Meaningful!
+### 💻 Code. Create. Innovate.
 
-**"Think. Code. Build. Innovate."**
+**"Building the future, one project at a time."**
 
 <a href="mailto:jeevansanju908@gmail.com">
-<img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Let's%20Connect-Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-*Thanks for visiting my GitHub profile!*
+**Thanks for visiting my GitHub profile! 🚀**
 
 </div>
