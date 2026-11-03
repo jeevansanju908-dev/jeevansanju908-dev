@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED CODING ROOM -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation"/>
-
+<img src="https://media.giphy.com/media/uVqJA3SUJ4M4GLqMFI/giphy.gif" width="350" alt="Developer coding animation"/>
 <br/><br/>
 
 <!-- ANIMATED INTRODUCTION -->
