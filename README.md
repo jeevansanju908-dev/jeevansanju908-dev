@@ -2,7 +2,7 @@
 
 <!-- 1. CODING ANIMATION -->
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" alt="Developer coding animation"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="330" alt="Developer working on code"/>
 
 <br/><br/>
 
