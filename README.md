@@ -143,33 +143,25 @@ Learning new technologies, experimenting with ideas and improving development sk
 
 ---
 
-## 📊 GitHub Development Overview
 
-<div align="center">
 
-<!-- GITHUB STREAK CARD -->
-<a href="https://github.com/jeevansanju908-dev">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevansanju908-dev&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub contribution and streak statistics"/>
-</a>
 
-<br/><br/>
-
-<!-- MOST USED LANGUAGES CARD -->
-<a href="https://github.com/jeevansanju908-dev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansanju908-dev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" width="48%" alt="Most used programming languages"/>
-</a>
-
-</div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jeevansanju908-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jeevansanju908-dev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeevansanju908-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jeevansanju908-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github-profile-trophy.vercel.app/?username=jeevansanju908-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub achievements"/>
+---
+[![](https://komarev.com/ghpvc/?username=jeevansanju908-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ---
 
