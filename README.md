@@ -4,7 +4,11 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="330" alt="Developer working on code"/>
 
-<br/><br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I'm+Jeevan+S+K+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Turning+Ideas+Into+Digital+Solutions;Building+Real-World+Applications" />
+
+<br/>
 
 <!-- 2. ANIMATED INTRODUCTION -->
 
