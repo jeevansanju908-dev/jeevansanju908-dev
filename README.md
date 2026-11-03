@@ -1,17 +1,18 @@
- <div align="center">
+<div align="center">
 
-<!-- DEVELOPER ANIMATION -->
-<!-- Replace this URL with the direct GIF URL of your preferred 3-monitor developer animation -->
-<img src="YOUR_NEW_3_MONITOR_DEVELOPER_GIF_URL" width="380" alt="Developer working with three monitors and checking mobile notifications"/>
+<!-- ANIMATED DEVELOPER WORKSPACE -->
+<img src="https://media.tenor.com/your-gif.gif"
+     width="480"
+     alt="Animated developer coding with multiple monitors"/>
 
-<br/>
+<br/><br/>
 
-<!-- ANIMATED INTRODUCTION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00CFFF&center=true&vCenter=true&width=850&height=60&lines=Hello%2C+I'm+Jeevan+S+K+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Real-World+Problem+Solver;Building+Innovative+Digital+Solutions" />
+<!-- LIVE TYPING INTRO -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00CFFF&center=true&vCenter=true&width=850&height=60&lines=Hello%2C+I'm+Jeevan+S+K;Aspiring+Full-Stack+Developer;Real-World+Problem+Solver;Building+Innovative+Digital+Solutions"/>
 
 ### FULL-STACK DEVELOPER | PROBLEM SOLVER | TECH ENTHUSIAST
 
-<img src="https://komarev.com/ghpvc/?username=jeevansanju908-dev&label=PROFILE+VIEWS&color=8957e5&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=jeevansanju908-dev&label=PROFILE+VIEWS&color=8957e5&style=for-the-badge"/>
 
 </div>
 
