@@ -1,7 +1,7 @@
  <div align="center">
 
-<!-- ANIMATED DEVELOPER ROOM -->
-<img src="./assets/developer_workspace.gif" width="850" alt="Jeevan's animated developer workspace with multiple monitors and coding setup"/>
+<!-- ANIMATED CODING ROOM -->
+<img src="./assets/jeevan_developer_room.gif" width="100%" alt="Jeevan coding inside a futuristic developer room with three monitors, mobile notifications and digital clock"/>
 
 <br/><br/>
 
@@ -10,85 +10,85 @@
 
 ### FULL-STACK DEVELOPER | PROBLEM SOLVER | TECH ENTHUSIAST
 
-<img src="https://komarev.com/ghpvc/?username=jeevansanju908-dev&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=jeevansanju908-dev&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
 Hey! I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about transforming ideas into innovative digital solutions.
 
-I enjoy building modern, responsive, and user-friendly web applications that address real-world challenges. I believe technology is most powerful when it solves meaningful problems and creates better experiences for people.
+I enjoy developing modern, responsive, and user-friendly web applications that solve real-world problems.
 
-- 💻 Developing practical applications using modern technologies.
-- 🚀 Exploring Full-Stack and Backend Development.
-- 🧠 Passionate about problem-solving and logical thinking.
-- 🌱 Currently learning **Go (Golang)** and advanced backend concepts.
-- 🔍 Exploring APIs, databases, cloud technologies, and application architecture.
-- 🤖 Interested in integrating AI into real-world applications.
+- 💻 Building practical applications using modern technologies.
+- 🚀 Interested in Full-Stack and Backend Development.
+- 🧠 Passionate about problem-solving through programming.
+- 🌱 Currently learning **Go (Golang)**.
+- 🔍 Exploring APIs, databases, and application architecture.
+- 🤖 Interested in AI-powered applications.
 - 🎯 Focused on continuous learning and hands-on development.
-- 🤝 Open to collaboration, internships, and innovative projects.
+- 🤝 Open to collaboration, internships, and exciting projects.
 
-**My Mission:** To turn ideas into impactful digital products and build technology that makes a meaningful difference.
+**My Vision:** To transform creative ideas into practical applications that solve real-world challenges.
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://instagram.com/jeevan_sanju7">
-<img src="https://img.icons8.com/color/96/instagram-new.png" width="50" alt="Instagram"/>
+<img src="https://img.icons8.com/color/96/instagram-new.png" width="55" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/jeevan-sk-687308328/">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="50" alt="LinkedIn"/>
+<img src="https://img.icons8.com/color/96/linkedin.png" width="55" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@Jeevan-k9u">
-<img src="https://img.icons8.com/color/96/youtube-play.png" width="50" alt="YouTube"/>
+<img src="https://img.icons8.com/color/96/youtube-play.png" width="55" alt="YouTube"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:jeevansanju908@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="50" alt="Gmail"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="55" alt="Gmail"/>
 </a>
 
 <br/>
 
-**Instagram** &nbsp; | &nbsp; **LinkedIn** &nbsp; | &nbsp; **YouTube** &nbsp; | &nbsp; **Email**
+Instagram | LinkedIn | YouTube | Email
 
 </div>
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
 <div align="center">
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,go&theme=dark"/>
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark"/>
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
 ### Database Technologies
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,gcp&theme=dark"/>
 
 </div>
 
@@ -102,14 +102,14 @@ I enjoy building modern, responsive, and user-friendly web applications that add
 
 ### 🌐 Full-Stack Development
 
-Building complete web applications with responsive interfaces, backend functionality, APIs, and database integration.
+Creating complete web applications with responsive interfaces, backend functionality, and database integration.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 Problem Solving
 
-Understanding real-world challenges and developing practical, efficient, and user-focused solutions.
+Understanding real-world challenges and developing practical, user-focused solutions.
 
 </td>
 </tr>
@@ -118,14 +118,14 @@ Understanding real-world challenges and developing practical, efficient, and use
 
 ### 🤖 AI-Powered Applications
 
-Exploring AI technologies and integrating intelligent features into modern applications.
+Exploring AI integration to develop smarter applications and improve user experiences.
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Continuous Improvement
+### 📈 Continuous Learning
 
-Learning emerging technologies, experimenting with new ideas, and improving through hands-on projects.
+Exploring emerging technologies and improving development skills through practical projects.
 
 </td>
 </tr>
@@ -137,37 +137,9 @@ Learning emerging technologies, experimenting with new ideas, and improving thro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,js,mongodb&theme=dark" />
-
-### Areas of Focus
+<img src="https://skillicons.dev/icons?i=go,nodejs,js,mongodb&theme=dark"/>
 
 **Backend Development • REST APIs • Database Management • AI Integration**
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeevansanju908-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=jeevansanju908-dev&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansanju908-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeevansanju908-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
 
 </div>
 
@@ -179,7 +151,7 @@ Learning emerging technologies, experimenting with new ideas, and improving thro
 
 ### UNDERSTAND → DESIGN → DEVELOP → TEST → INNOVATE
 
-*Great developers don't just write code. They understand problems, create solutions, and build applications that make a difference.*
+*I believe great developers don't just write code. They understand problems and build meaningful solutions.*
 
 <br/>
 
@@ -196,4 +168,3 @@ Learning emerging technologies, experimenting with new ideas, and improving thro
 **Thanks for visiting my GitHub profile! 🚀**
 
 </div>
-
