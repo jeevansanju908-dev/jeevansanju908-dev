@@ -34,13 +34,7 @@ My vision is to build technology that solves problems, creates opportunities, an
 
 ---
 
-## 📊 GitHub Stats & Streak
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevansanju908-dev&theme=dark&hide_border=true&background=111111" alt="GitHub Streak" />
-
-</div>
 
 ---
 
@@ -97,6 +91,11 @@ My vision is to build technology that solves problems, creates opportunities, an
 </div>
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jeevansanju908-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jeevansanju908-dev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeevansanju908-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 What I Bring to Development
 
