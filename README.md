@@ -18,23 +18,27 @@
 
 ---
 
-# 💫 About Me
+💫 About Me
 
-Hey! I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about transforming ideas into innovative digital solutions.
+I'm Jeevan S K, an aspiring Full-Stack Developer passionate about transforming ideas into innovative digital solutions.
 
-I enjoy developing modern, responsive, and user-friendly web applications that solve real-world problems.
+I enjoy developing modern, responsive, and user-friendly web applications that solve real-world problems. My interests include software development, backend technologies, and exploring emerging tools.
 
-- 💻 Building practical applications using modern technologies.
-- 🚀 Interested in Full-Stack and Backend Development.
-- 🧠 Passionate about problem-solving through programming.
-- 🌱 Currently learning **Go (Golang)**.
-- 🔍 Exploring APIs, databases, and application architecture.
-- 🤖 Interested in AI-powered applications.
-- 🎯 Focused on continuous learning and hands-on development.
-- 🤝 Open to collaboration, internships, and exciting projects.
+💻 Building practical applications using modern technologies.
 
-**My Vision:** To transform creative ideas into practical applications that solve real-world challenges.
+🚀 Interested in Full-Stack and backend development.
 
+🧠 Enjoy solving problems through programming.
+
+🌱 Currently learning Go (Golang).
+
+🔍 Exploring APIs, databases, and application architecture.
+
+🎯 Focused on continuous learning and hands-on development.
+
+🤝 Interested in collaborating on meaningful projects.
+
+My vision is to build technology that solves problems, creates opportunities, and makes everyday life better.
 ---
 
 # 🤝 Connect With Me
