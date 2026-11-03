@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED CODING ROOM -->
-<img src="https://media.giphy.com/media/dL5vy5PzM801e/giphy.gif" width="350" alt="Developer coding animation"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Developer coding and checking phone"/>
 <br/><br/>
 
 <!-- ANIMATED INTRODUCTION -->
