@@ -1,12 +1,15 @@
  <div align="center">
 
-<!-- CODING ANIMATION -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="330" alt="Developer coding animation"/>
+<!-- DEVELOPER ANIMATION -->
+<!-- Replace this URL with the direct GIF URL of your preferred 3-monitor developer animation -->
+<img src="YOUR_NEW_3_MONITOR_DEVELOPER_GIF_URL" width="380" alt="Developer working with three monitors and checking mobile notifications"/>
 
-<!-- ANIMATED INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00CFFF&center=true&vCenter=true&width=850&height=60&lines=Hello%2C+I'm+Jeevan+S+K+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Building+Solutions+for+Real-World+Problems;Turning+Ideas+Into+Digital+Products" />
+<br/>
 
-**FULL-STACK DEVELOPER | PROBLEM SOLVER | TECH ENTHUSIAST**
+<!-- ANIMATED INTRODUCTION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00CFFF&center=true&vCenter=true&width=850&height=60&lines=Hello%2C+I'm+Jeevan+S+K+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Real-World+Problem+Solver;Building+Innovative+Digital+Solutions" />
+
+### FULL-STACK DEVELOPER | PROBLEM SOLVER | TECH ENTHUSIAST
 
 <img src="https://komarev.com/ghpvc/?username=jeevansanju908-dev&label=PROFILE+VIEWS&color=8957e5&style=for-the-badge" />
 
@@ -16,17 +19,17 @@
 
 ## 💫 About Me
 
-Hey, I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about building innovative digital solutions and solving real-world problems through technology.
+Hey, I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about creating innovative and impactful digital solutions.
 
-- 💻 Interested in developing modern, responsive and user-friendly applications.
-- 🚀 Focused on building practical solutions that address real-world challenges.
-- 🧠 Enjoy exploring emerging technologies and strengthening problem-solving skills.
+- 💻 Interested in developing modern, responsive and user-friendly web applications.
+- 🚀 Passionate about solving real-world problems through technology.
+- 🧠 Enjoy exploring emerging technologies and improving problem-solving skills.
 - 🌱 Currently learning **Go (Golang)** and exploring backend development.
-- ⚡ Interested in frontend, backend, databases and full-stack application development.
-- 🎯 Believe in continuous learning, creativity and consistent improvement.
-- 🤝 Open to collaboration, internships and opportunities to work on meaningful projects.
+- ⚡ Interested in building complete applications using frontend, backend and databases.
+- 🎯 Focused on continuous learning, creativity and personal growth.
+- 🤝 Open to collaboration, internships and opportunities to build meaningful solutions.
 
-**My Mission:** To transform ideas into reliable, scalable and impactful digital solutions.
+**My Mission:** To transform creative ideas into practical, scalable applications that make a meaningful difference.
 
 ---
 
@@ -35,20 +38,25 @@ Hey, I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about build
 <div align="center">
 
 <a href="https://instagram.com/jeevan_sanju7">
-<img src="https://img.icons8.com/color/96/instagram-new.png" width="50" alt="Instagram"/>
+<img src="https://img.icons8.com/color/96/instagram-new.png" width="55" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/jeevan-sk-687308328/">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="50" alt="LinkedIn"/>
+<img src="https://img.icons8.com/color/96/linkedin.png" width="55" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://www.youtube.com/@Jeevan-k9u">
-<img src="https://img.icons8.com/color/96/youtube-play.png" width="50" alt="YouTube"/>
+<img src="https://img.icons8.com/color/96/youtube-play.png" width="55" alt="YouTube"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="mailto:jeevansanju908@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="50" alt="Gmail"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="55" alt="Gmail"/>
 </a>
+
+<br/>
 
 **Instagram** &nbsp; | &nbsp; **LinkedIn** &nbsp; | &nbsp; **YouTube** &nbsp; | &nbsp; **Email**
 
@@ -60,23 +68,23 @@ Hey, I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about build
 
 <div align="center">
 
-**Programming Languages**
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,go&theme=dark" />
 
-**Frontend Development**
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
 
-**Backend Development**
+### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-**Databases**
+### Database Technologies
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
 
-**Tools & Platforms**
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,gcp&theme=dark" />
 
@@ -84,7 +92,7 @@ Hey, I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about build
 
 ---
 
-## 🚀 What I Focus On
+## 🚀 What I Bring to Development
 
 <table>
 <tr>
@@ -92,7 +100,7 @@ Hey, I'm **Jeevan S K**, an aspiring Full-Stack Developer passionate about build
 
 ### 🌐 Full-Stack Development
 
-Building complete web applications with responsive interfaces, backend logic and database integration.
+Creating complete web applications with responsive frontend interfaces, backend functionality and database integration.
 
 </td>
 <td width="50%">
@@ -106,16 +114,16 @@ Understanding real-world challenges and developing practical, user-focused techn
 <tr>
 <td width="50%">
 
-### 🤖 AI & Emerging Technology
+### 🤖 AI-Powered Applications
 
-Exploring AI-powered applications and modern technologies to improve digital experiences.
+Exploring AI integration to build smarter applications and improve user experiences.
 
 </td>
 <td width="50%">
 
-### 📈 Continuous Learning
+### 📈 Continuous Improvement
 
-Improving technical knowledge through hands-on development, experimentation and collaboration.
+Learning new technologies, experimenting with ideas and improving development skills through practical projects.
 
 </td>
 </tr>
@@ -123,13 +131,15 @@ Improving technical knowledge through hands-on development, experimentation and 
 
 ---
 
-## 📚 Currently Learning & Exploring
+## 📚 Currently Learning
 
-- Go (Golang) and backend development.
-- Advanced JavaScript and modern frontend development.
-- REST APIs and database management.
-- AI integration in web applications.
-- Clean code, debugging and application development practices.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,nodejs,js,mongodb&theme=dark" />
+
+**Backend Development • REST APIs • Database Management • AI Integration**
+
+</div>
 
 ---
 
@@ -137,11 +147,16 @@ Improving technical knowledge through hands-on development, experimentation and 
 
 <div align="center">
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansanju908-dev&layout=compact&theme=github_dark&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansanju908-dev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" width="48%" alt="Most used programming languages"/>
+<!-- GITHUB STREAK CARD -->
+<a href="https://github.com/jeevansanju908-dev">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevansanju908-dev&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub contribution and streak statistics"/>
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=jeevansanju908-dev">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevansanju908-dev&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<!-- MOST USED LANGUAGES CARD -->
+<a href="https://github.com/jeevansanju908-dev">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansanju908-dev&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" width="48%" alt="Most used programming languages"/>
 </a>
 
 </div>
@@ -152,7 +167,7 @@ Improving technical knowledge through hands-on development, experimentation and 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jeevansanju908-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jeevansanju908-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub achievements"/>
 
 </div>
 
