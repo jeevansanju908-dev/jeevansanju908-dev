@@ -1,7 +1,9 @@
  <div align="center">
 
 <!-- ANIMATED CODING ROOM -->
-<img src="./assets/jeevan_developer_room.gif" width="100%" alt="Jeevan coding inside a futuristic developer room with three monitors, mobile notifications and digital clock"/>
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation"/>
 
 <br/><br/>
 
